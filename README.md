@@ -1,8 +1,8 @@
-## Hi! I'm a web systems development student. ✨
+## Hi! I'm a web systems development student ✨
 
 ![Aliek's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliek57&show_icons=true&theme=tokyonight)
 
-## I've already worked with
+## I've already worked with 📚
 
 **Frontend**
 <div style="display: inline_block">
@@ -37,6 +37,6 @@
   <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </div><br>
 
-## Contact Me
+## Contact Me 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/keilaprado)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/585841973127151618)
