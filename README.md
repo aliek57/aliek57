@@ -1,5 +1,7 @@
 ## Hi! I'm a web systems development student ✨
 
+![Aliek's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliek57&show_icons=true&theme=tokyonight)
+
 ## I've already worked with 📚
 
 **Frontend**
